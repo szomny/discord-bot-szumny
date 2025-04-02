@@ -1,4 +1,4 @@
 # discord-bot-szumny
-My firts BOT in python
+My first BOT in python
 
 <3
