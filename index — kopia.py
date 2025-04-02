@@ -14,7 +14,7 @@ import requests
 
 # ---------{ ROLES }----------
 
-PERKS_ROLE_ID = 1353744571074609165
+PERKS_ROLE_ID = None
 
 
 # ---------{ YOUTUBE }----------
